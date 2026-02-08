@@ -1,4 +1,4 @@
-import { AlertTriangle, Cloud, Map as MapIcon, Users, Phone, Clock } from 'lucide-react';
+import { AlertTriangle, Cloud, Map as MapIcon, Users, Clock } from 'lucide-react';
 
 export function SafetyPage() {
   return (
